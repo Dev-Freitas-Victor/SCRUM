@@ -16,7 +16,7 @@ Representado por Victor Alves, futuro desenvolvedor Full Stack, formado pela Ger
 
 *Desenvolvedor* : é um profissional responsável por criar, manter e aprimorar programas de computador, aplicativos e sistemas. Eles trabalham utilizando diferentes linguagens de programação e ferramentas de desenvolvimento para traduzir requisitos e ideias em código executável.
 
-![scrum](https://static.vecteezy.com/ti/vetor-gratis/p3/2206015-icone-de-trabalho-de-desenvolvedor-vetor.jpg)
+![desenvolvedor](https://cdn-icons-png.flaticon.com/512/6840/6840541.png)
 
 ## *Imagem representativa de todo o processo scrum*
 
